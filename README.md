@@ -1,6 +1,6 @@
 # Cannon-Game
 
-[Download Executable](https://github.com/rockyyyr/Cannon-Game/releases/download/v1.0/Cannon.Game.jar)
+## [Download Executable](https://github.com/rockyyyr/Cannon-Game/releases/download/v1.0/Cannon.Game.jar)
 
 ## Controls:
 
